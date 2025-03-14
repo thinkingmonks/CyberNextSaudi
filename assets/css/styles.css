@@ -633,16 +633,16 @@ body,html {
     z-index: 1;
   }
   .np1{
-    background-image: url("../assets/images/num-img-200-and-more-cybersecurity-delegates.webp");
+    background-image: url("../images/num-img-200-and-more-cybersecurity-delegates.webp");
   }
   .np2{
-    background-image: url("../assets/images/num-img-20-and-more-cybersecurity-experts.webp");
+    background-image: url("../images/num-img-20-and-more-cybersecurity-experts.webp");
   }
   .np3{
-    background-image: url("../assets/images/num-img-saudi-government-speakers.webp");
+    background-image: url("../images/num-img-saudi-government-speakers.webp");
   }
   .np4{
-    background-image: url("../assets/images/num-img-business-to-business-meetings.webp");
+    background-image: url("../images/num-img-business-to-business-meetings.webp");
   }
   .num-patch{
     position: absolute;
